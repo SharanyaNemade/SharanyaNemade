@@ -1,38 +1,61 @@
-## Hi there 👋
+# 👋 Hello, I’m Sharanya Nemade
 
+<p align="center">
+  🌱 Full Stack Web Developer | 💻 Building Interactive & Scalable Web Apps | 📍 Mumbai, India
+</p>
 
-
-# Hello, I’m Sharanya Nemade 👋
-
-🌱 I am a **Full Stack Web Developer**  
-💻 Building responsive and interactive digital experiences  
-📍 Mumbai, India
-
+---
 
 ## 🚀 About Me
 
-- 🌱 Full Stack Web Developer  
-- 🔭 Working with React, Spring Boot, ASP.NET
-- 💡 Love learning new technologies  
-- 🎯 Goal: Build impactful web products
+- 💻 **Role:** Full Stack Web Developer  
+- 🌐 **Frontend:** HTML, CSS, JavaScript, React.js, Redux, Bootstrap, Tailwind CSS, ShadCN UI  
+- 🖥️ **Backend:** Java (Spring Boot), C# (ASP.NET Core), REST APIs  
+- 🗄️ **Databases:** MySQL, MongoDB  
+- 🔧 **Other Tools:** Git, VS Code, Postman, Figma (optional)  
+- 🌱 **Currently Learning:** Advanced React patterns, microservices, cloud deployment  
+- 💡 **Passion:** Building **scalable, efficient, and user-friendly** web applications  
+- 🎯 **Goal:** Deliver web solutions that make a real impact  
 
-
+---
 
 ## 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+  <!-- Frontend -->
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-111827?style=for-the-badge&logo=react&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+</p>
+
+<p align="center">
+  <!-- Backend -->
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</p>
+
+<p align="center">
+  <!-- Databases -->
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+</p>
+
+---
+
+## 📌 Goals & Interests
+
+- 🚀 Build scalable full-stack applications  
+- 💡 Learn advanced backend frameworks & cloud deployment  
+- 🌱 Explore modern UI frameworks & design systems  
+- 🛠️ Contribute to open-source and collaborative projects
+
 
 
 
