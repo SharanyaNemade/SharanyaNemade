@@ -59,6 +59,19 @@
 
 
 
+<!-- Deployment & Version Control -->
+<div align="center">
+
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Render](https://img.shields.io/badge/Render-222222?style=for-the-badge&logo=render&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![GCP](https://img.shields.io/badge/GCP-F0BC00?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Railway](https://img.shields.io/badge/Railway-FFFFFF?style=for-the-badge&logo=railway&logoColor=black)
+  ![Aiven](https://img.shields.io/badge/Aiven-6D28D9?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAARVBMVEUAAAAAAAD///+ZmZnZ2dnW1tb7+/vU1NTx8fGqqqq6urrQ0NDy8vLZ2dnY2NjPz8/4+PjV1dXn5+fOzs7s7OzHh4eQkJC2trbFvOtzAAAAEXRSTlMAEBAgIDAwQEBAgIDAwQEBAgIAD//wAAAEVJREFUGJVjYGBgZGJkYmRgYGBgaGhoYGBgYGJgYmBkYmBgYGDYwMDIyMjAwMDAwMDIwsDAwNDAyMjAwMDAyMjAwMDAwMDAwMDAwMBAGg48BYWQpB9AAAAAElFTkSuQmCC)
+
+</div>
+
 ---
 
 ## 📌 Goals & Interests
