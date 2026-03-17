@@ -91,6 +91,7 @@
 ![Sharanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharanyaNemade&show_icons=true&theme=tokyonight)
 
 
+![Sharanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharanyaNemade&show_icons=true&theme=radical)
 
 ## 🌐 Connect with me
 
