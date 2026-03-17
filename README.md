@@ -90,8 +90,7 @@
 
 ![Sharanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharanyaNemade&show_icons=true&theme=tokyonight)
 
-
-![Sharanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharanyaNemade&show_icons=true&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharanyaNemade&theme=react-dark)
 
 ## 🌐 Connect with me
 
