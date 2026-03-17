@@ -7,7 +7,7 @@
 ---
 
 
-<h1 align="center">Hi 👋, I'm Sharanya Nemade</h1>
+<h1 align="center">Hi 👋,Hi  I'm a Software Engineer from India 🇮🇳</h1>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500"/>
