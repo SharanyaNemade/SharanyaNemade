@@ -88,6 +88,8 @@
 
 ## 📊 GitHub Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SharanyaNemade&layout=compact&theme=radical)
+
 ![Sharanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharanyaNemade&show_icons=true&theme=tokyonight)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharanyaNemade&theme=react-dark)
