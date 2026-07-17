@@ -34,13 +34,14 @@
 <div align="center">
   
   <!--Frontend-->
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-009688?style=for-the-badge&logo=angular&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-00599C?style=for-the-badge)
 
 </div>
 
@@ -52,7 +53,14 @@
   <!-- Backend -->
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge)
+![Dapper](https://img.shields.io/badge/Dapper-0F4C81?style=for-the-badge)
 
 </div>
 
@@ -61,23 +69,22 @@
 <div align="center">
   
   <!-- Databases -->
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
 
 
-<!-- Deployment & Version Control -->
-<div align="center">
-
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Render](https://img.shields.io/badge/Render-222222?style=for-the-badge&logo=render&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![GCP](https://img.shields.io/badge/GCP-F0BC00?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Railway](https://img.shields.io/badge/Railway-FFFFFF?style=for-the-badge&logo=railway&logoColor=black)
-  ![Aiven](https://img.shields.io/badge/Aiven-6D28D9?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAARVBMVEUAAAAAAAD///+ZmZnZ2dnW1tb7+/vU1NTx8fGqqqq6urrQ0NDy8vLZ2dnY2NjPz8/4+PjV1dXn5+fOzs7s7OzHh4eQkJC2trbFvOtzAAAAEXRSTlMAEBAgIDAwQEBAgIDAwQEBAgIAD//wAAAEVJREFUGJVjYGBgZGJkYmRgYGBgaGhoYGBgYGJgYmBkYmBgYGDYwMDIyMjAwMDAwMDIwsDAwNDAyMjAwMDAyMjAwMDAwMDAwMDAwMBAGg48BYWQpB9AAAAAElFTkSuQmCC)
+<!-- DevOps, Architecture & Practices -->
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![DDD](https://img.shields.io/badge/DDD-6A1B9A?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-1976D2?style=for-the-badge)
+![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-512BD4?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-00ACC1?style=for-the-badge)
 
 </div>
 
