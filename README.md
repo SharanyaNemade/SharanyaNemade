@@ -112,7 +112,15 @@
 
 ## 🌐 Connect with me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sharanya-nemade-50764b193/)
+- 💼 ## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sharanya-nemade-50764b193/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+
 - 🐦 [Twitter / X](https://twitter.com/yourhandle)
 - 🌍 [Portfolio](https://your-portfolio-link)
 
