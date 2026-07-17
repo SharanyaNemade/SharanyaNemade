@@ -110,9 +110,8 @@
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharanyaNemade&theme=react-dark)
 
-## 🌐 Connect with me
+🌐 Connect with me
 
-- 💼 ## 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sharanya-nemade-50764b193/" target="_blank">
@@ -120,9 +119,6 @@
   </a>
 </p>
 
-
-- 🐦 [Twitter / X](https://twitter.com/yourhandle)
-- 🌍 [Portfolio](https://your-portfolio-link)
 
 
 
