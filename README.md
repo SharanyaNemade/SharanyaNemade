@@ -124,7 +124,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,html,css,js,react,docker,kubernetes,mysql,linux,git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,docker,kubernetes,mysql,linux,git" />
 </p>
 
 <p align="center">
@@ -132,7 +132,9 @@
 </p>
 
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
 
 <!--
 **SharanyaNemade/SharanyaNemade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
