@@ -90,6 +90,19 @@
 
 ---
 
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,docker,kubernetes,mysql,linux,git" />
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="MS SQL Server"/>
+</p>
+
+
+
+
 ## 📌 Goals & Interests
 
 - 🚀 Build scalable full-stack applications  
@@ -119,16 +132,6 @@
   </a>
 </p>
 
-
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,docker,kubernetes,mysql,linux,git" />
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="MS SQL Server"/>
-</p>
 
 
 
