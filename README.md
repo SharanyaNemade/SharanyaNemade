@@ -121,6 +121,13 @@
 
 
 
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,c,html,css,js,react,docker,kubernetes,mysql,postgres,mongodb,linux,git" />
+</p>
+
+
 
 
 <!--
