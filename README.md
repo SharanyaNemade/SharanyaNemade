@@ -1,152 +1,212 @@
-# 👋 Hello, I’m Sharanya Nemade
+<h1 align="center">
+Hi 👋 I'm Sharanya Nemade
+</h1>
+
+<h3 align="center">
+Full Stack .NET Developer | ASP.NET Core | C# | React | Angular | SQL Server
+</h3>
 
 <p align="center">
-  🌱 Full Stack Web Developer | 💻 Building Interactive & Scalable Web Apps | 📍 Mumbai, India
+📍 Mumbai, India • 💼 2.6+ Years Experience • 🚀 Passionate about building scalable enterprise applications
+</p>
+
+<p align="center">
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500"/>
 </p>
 
 ---
 
+# 💫 About Me
 
-<h1 align="center">Hi 👋,Hi  I'm a Software Engineer from India 🇮🇳</h1>
+I'm a **Full Stack .NET Developer** with **2.6 years of professional experience** developing scalable web applications using Microsoft's technology stack.
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500"/>
-</p>
+I enjoy designing clean architectures, building REST APIs, optimizing SQL Server databases, and creating responsive user interfaces using modern frontend frameworks.
 
-
-
-## 🚀 About Me
-
-- 💻 **Role:** Full Stack Web Developer  
-- 🌐 **Frontend:** HTML, CSS, JavaScript, React.js, Redux, Bootstrap, Tailwind CSS, ShadCN UI  
-- 🖥️ **Backend:** Java (Spring Boot), C# (ASP.NET Core), REST APIs  
-- 🗄️ **Databases:** MySQL, MongoDB  
-- 🔧 **Other Tools:** Git, VS Code, Postman, Figma (optional)  
-- 🌱 **Currently Learning:** Advanced React patterns, microservices, cloud deployment  
-- 💡 **Passion:** Building **scalable, efficient, and user-friendly** web applications  
-- 🎯 **Goal:** Deliver web solutions that make a real impact  
+I believe in writing maintainable, reusable, and production-ready code.
 
 ---
 
-## 🛠️ Tech Stack
+# 💼 Professional Summary
 
+✔ 2.6+ Years of Industry Experience
 
-<div align="center">
-  
-  <!--Frontend-->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular_Material-009688?style=for-the-badge&logo=angular&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-00599C?style=for-the-badge)
+✔ Full Stack .NET Development
 
-</div>
+✔ Enterprise Web Applications
 
+✔ REST API Development
 
+✔ SQL Server Database Design
 
+✔ Dapper & Entity Framework
 
-<div align="center">
-  
-  <!-- Backend -->
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge)
-![Dapper](https://img.shields.io/badge/Dapper-0F4C81?style=for-the-badge)
+✔ React & Angular Development
 
-</div>
+✔ Clean Architecture
 
+✔ Git Version Control
 
-
-<div align="center">
-  
-  <!-- Databases -->
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-
-
-<!-- DevOps, Architecture & Practices -->
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![DDD](https://img.shields.io/badge/DDD-6A1B9A?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-1976D2?style=for-the-badge)
-![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-512BD4?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-00ACC1?style=for-the-badge)
-
-</div>
+✔ Agile Development
 
 ---
 
+# 🛠 Tech Stack
 
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,docker,kubernetes,mysql,linux,git" />
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="MS SQL Server"/>
-</p>
-
-
-
-
-## 📌 Goals & Interests
-
-- 🚀 Build scalable full-stack applications  
-- 💡 Learn advanced backend frameworks & cloud deployment  
-- 🌱 Explore modern UI frameworks & design systems  
-- 🛠️ Contribute to open-source and collaborative projects
-
-
-
-
-
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SharanyaNemade&layout=compact&theme=radical)
-
-![Sharanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharanyaNemade&show_icons=true&theme=tokyonight)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharanyaNemade&theme=react-dark)
-
-🌐 Connect with me
-
+## Backend
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sharanya-nemade-50764b193/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet"/>
+
 </p>
 
+ASP.NET Core • ASP.NET Core MVC • ASP.NET Core Web API • Dapper • Entity Framework Core • ADO.NET
+
+---
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular"/>
+
+</p>
+
+HTML5 • CSS3 • JavaScript • React.js • Angular • Bootstrap • Tailwind CSS • jQuery • AJAX
+
+---
+
+## Database
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+Microsoft SQL Server • MySQL
+
+---
+
+## Dev Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,azure,visualstudio,vscode"/>
+
+</p>
+
+Git • GitHub • Docker • Azure • Visual Studio • VS Code • Swagger • Postman
+
+---
+
+# 🏗 Architecture & Practices
+
+✔ MVC Architecture
+
+✔ REST APIs
+
+✔ Repository Pattern
+
+✔ Dependency Injection
+
+✔ SOLID Principles
+
+✔ Clean Code
+
+✔ Object Oriented Programming
+
+✔ Microservices (Learning)
+
+---
+
+# 🚀 Featured Projects
+
+### Employee Management System
+
+ASP.NET Core Web API + React + SQL Server + Dapper
+
+CRUD Operations
+
+Authentication
+
+REST APIs
+
+---
+
+### Insurance Management System
+
+ASP.NET Core MVC
+
+SQL Server
+
+Entity Framework
+
+Repository Pattern
+
+---
+
+### Crypto Portfolio Tracker
+
+React
+
+REST APIs
+
+Responsive Dashboard
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SharanyaNemade&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharanyaNemade&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+• Advanced ASP.NET Core
+
+• Clean Architecture
+
+• Docker
+
+• Kubernetes
+
+• Azure Cloud
+
+• Microservices
+
+---
+
+# 🎯 Career Goal
+
+To build scalable enterprise applications using the Microsoft technology stack while continuously improving software quality, architecture, and performance.
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sharanya-nemade-50764b193">
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+</p>
+
+---
+
+⭐ If you like my work, consider starring my repositories!
 
 
 
-
-<!--
-**SharanyaNemade/SharanyaNemade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
