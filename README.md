@@ -183,18 +183,6 @@ Git • GitHub • Docker • Azure • Visual Studio • VS Code • Swagger �
 ---
 
 
----
-
-### Crypto Portfolio Tracker
-
-React
-
-REST APIs
-
-Responsive Dashboard
-
----
-
 # 📈 GitHub Statistics
 
 <p align="center">
