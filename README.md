@@ -124,11 +124,11 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,
-    html5,css3,js,react,
-    docker,kubernetes,
-    mysql,mssql,mongodb,
-    linux,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,html,css,js,react,docker,kubernetes,mysql,linux,git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 
