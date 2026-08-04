@@ -166,6 +166,8 @@ Responsive Dashboard
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharanyaNemade&layout=compact&theme=tokyonight"/>
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharanyaNemade&theme=react-dark)
+
 </p>
 
 ---
