@@ -124,40 +124,63 @@ Git • GitHub • Docker • Azure • Visual Studio • VS Code • Swagger �
 
 # 🚀 Featured Projects
 
-### Employee Management System
+---
 
-ASP.NET Core Web API + React + SQL Server + Dapper
+## 👨‍💼 Employee Management System
 
-CRUD Operations
+💻 **Tech Stack:** ASP.NET Core Web API • React.js • SQL Server • Dapper
 
-Authentication
+✨ **Features**
 
-REST APIs
+- 👨‍💼 Employee CRUD Operations
+- 🔐 Authentication & Authorization
+- 🌐 RESTful APIs
+- 🗄️ SQL Server Database
+- ⚡ Dapper Micro ORM
 
 ---
 
-### VRM 
+## 🚗 Vehicle Registration Management (VRM)
 
-ASP.NET Core Web API
+💻 **Tech Stack:** ASP.NET Core Web API • React.js • SQL Server 2025 • Dapper
 
-SQL Server 2025
+✨ **Features**
 
-Dapper Micro-ORM
+- 🚗 Vehicle Registration Management
+- 📄 Master Data Management
+- ⚡ Dapper Micro ORM
+- 🗄️ SQL Server 2025
+- 🏛️ BLL • DAL • VAL Architecture
+- 🌐 RESTful APIs
 
-BLL DAL VAL Pattern
+---
 
-React Js
+## 🛡️ Insurance Management System
 
-### Insurance Management System
+💻 **Tech Stack:** ASP.NET Core MVC • SQL Server 2025 • Entity Framework
 
-ASP.NET Core MVC
+✨ **Features**
 
-SQL Server 2025
+- 🏢 Insurance Policy Management
+- 📂 Repository Pattern
+- 🗄️ SQL Server Database
+- ⚙️ Entity Framework
+- 🏛️ MVC Architecture
 
-Entity Framework
+---
 
-Repository Pattern
+## 📈 Crypto Portfolio Tracker
 
+💻 **Tech Stack:** React.js • REST APIs
+
+✨ **Features**
+
+- 💰 Cryptocurrency Portfolio Tracking
+- 📊 Interactive Dashboard
+- 🌐 REST API Integration
+- 📱 Responsive User Interface
+
+---
 
 
 ---
