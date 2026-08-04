@@ -136,15 +136,29 @@ REST APIs
 
 ---
 
+### VRM 
+
+ASP.NET Core Web API
+
+SQL Server 2025
+
+Dapper Micro-ORM
+
+BLL DAL VAL Pattern
+
+React Js
+
 ### Insurance Management System
 
 ASP.NET Core MVC
 
-SQL Server
+SQL Server 2025
 
 Entity Framework
 
 Repository Pattern
+
+
 
 ---
 
@@ -161,10 +175,6 @@ Responsive Dashboard
 # 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SharanyaNemade&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharanyaNemade&layout=compact&theme=tokyonight"/>
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharanyaNemade&theme=react-dark)
 
