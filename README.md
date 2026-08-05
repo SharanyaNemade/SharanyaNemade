@@ -140,7 +140,7 @@ Git • GitHub • Docker • Azure • Visual Studio • VS Code • Swagger �
 
 ---
 
-## 🚗 Vehicle Registration Management (VRM)
+## 🚢 VR Maritime Services Pvt. Ltd.
 
 💻 **Tech Stack:** ASP.NET Core Web API • React.js • SQL Server 2025 • Dapper
 
