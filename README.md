@@ -146,7 +146,7 @@ Git • GitHub • Docker • Azure • Visual Studio • VS Code • Swagger �
 
 ✨ **Features**
 
-- 🚗 Vehicle Registration Management
+- 🚗 VR Maritime Services Pvt. Ltd.
 - 📄 Master Data Management
 - ⚡ Dapper Micro ORM
 - 🗄️ SQL Server 2025
