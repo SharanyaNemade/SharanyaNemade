@@ -152,6 +152,7 @@ Git • GitHub • Docker • Azure • Visual Studio • VS Code • Swagger �
 - 🗄️ SQL Server 2025
 - 🏛️ BLL • DAL • VAL Architecture
 - 🌐 RESTful APIs
+- T-SQL Stored Procedures
 
 ---
 
