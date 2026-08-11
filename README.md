@@ -3,7 +3,7 @@ Hi 👋 I'm Sharanya Nemade
 </h1>
 
 <h3 align="center">
-Full Stack .NET Developer | ASP.NET Core | C# | React | Angular | SQL Server
+Full Stack .NET Developer | ASP.NET Core MVC | ASP.NET WEB API | C# | React.Js | Angular | MS SQL Server | SSMS 2022 | Dapper Micro-ORM | Entity Framework Core
 </h3>
 
 <p align="center">
