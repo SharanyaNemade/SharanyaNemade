@@ -146,13 +146,14 @@ Git • GitHub • Docker • Azure • Visual Studio • VS Code • Swagger �
 
 ✨ **Features**
 
-- 🚗 VR Maritime Services Pvt. Ltd.
-- 📄 Master Data Management
-- ⚡ Dapper Micro ORM
-- 🗄️ SQL Server 2025
-- 🏛️ BLL • DAL • VAL Architecture
-- 🌐 RESTful APIs
-- T-SQL Stored Procedures
+🚗 VR Maritime Services Pvt. Ltd.
+📄 Master Data Management
+⚡ Dapper Micro ORM
+🗄️ SQL Server 2025
+🏛️ BLL • DAL • VAL Architecture
+🌐 RESTful APIs
+🔹 T-SQL Stored Procedures
+
 
 ---
 
