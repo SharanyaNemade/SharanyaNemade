@@ -7,7 +7,7 @@ Full Stack .NET Developer | ASP.NET Core MVC | ASP.NET WEB API | C# | React.Js |
 </h3>
 
 <p align="center">
-📍 Mumbai, India • 💼 2.6+ Years Experience • 🚀 Passionate about building scalable enterprise applications
+📍 Mumbai, India • 💼 2.7 Years Experience • 🚀 Passionate about building scalable enterprise applications
 </p>
 
 <p align="center">
