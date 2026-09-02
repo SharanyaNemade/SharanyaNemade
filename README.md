@@ -18,7 +18,7 @@ Full Stack .NET Developer | ASP.NET Core MVC | ASP.NET WEB API | C# | React.Js |
 
 # 💫 About Me
 
-I'm a **Full Stack .NET Developer** with **2.6 years of professional experience** developing scalable web applications using Microsoft's technology stack.
+I'm a **Full Stack .NET Developer** with **2.7 years of professional experience** developing scalable web applications using Microsoft's technology stack.
 
 I enjoy designing clean architectures, building REST APIs, optimizing SQL Server databases, and creating responsive user interfaces using modern frontend frameworks.
 
